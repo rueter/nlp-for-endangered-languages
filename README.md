@@ -1,6 +1,6 @@
 # nlp-for-endangered-languages
 Finding ways to approach endangered language facilitation, empowerment and research
-through testing new methods and technology for real solutions
+through testing new methods and technology for real solutions.
 
 # Background
 ## Searching for a methodology for linguistics

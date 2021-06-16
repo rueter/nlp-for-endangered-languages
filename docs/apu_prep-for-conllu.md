@@ -10,7 +10,7 @@ The are sentences intended for release in the UD Apurinã-UFPA project.
 * Portuguese translation `text_pt`
 * English translation `text_en`
 
-
+{{{
 # sent_id = FernandaM2017:TextsII-1-6
 # text_orig = Kamasaru: Natuku y-txa? 
 # text = Natuku ytxa? 
@@ -380,5 +380,5 @@ Kumyry amapika.
 # text_pt = ‘Então vamos logo.’Q
 # text_en = ‘‘
 Ĩka amu asapuka.
-
+}}}
 

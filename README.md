@@ -8,4 +8,7 @@ through testing new methods and technology for real solutions
 * Finite-state morphological descriptions
 * Lexicon (verdd)
 * Universal Dependencies
+* Research in Apurinã UFPA
+
+
 

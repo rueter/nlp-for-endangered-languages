@@ -5,6 +5,7 @@
 * [Apurinã finite-state morphological description 2019- (Jack Rueter)](https://github.com/giellalt/lang-apu/tree/main/src/fst)
 * [Apurinã Universal Dependencies Project UFPA](https://github.com/UniversalDependencies/UD_Apurina-UFPA/tree/dev/)
 * [UralicNLP (Mika Hämäläinen)](https://models.uralicnlp.com/nightly/)
+* [Verdd dictionary editing platform (em português)](https://www.akusanat.com/verdd/)
 
 ## Our Google Scholar sites for publications
 

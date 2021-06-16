@@ -14,5 +14,5 @@ through testing new methods and technology for real solutions.
 
 These slides are from the variant of the course taught in Belem during the summer 2021.
 
-[Week 1](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_01_belem.pdf)
-[Week 2](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_02_belem.pdf)
+- [Week 1](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_01_belem.pdf)
+- [Week 2](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_02_belem.pdf)

@@ -5,6 +5,11 @@
 # Action or regularly running script, so that every time a dictionary
 # LIFT file is updated it is exported. 
 
+# this can now be used as
+# python lift2md.py
+# you have to change line 18,
+# and also places where language tags are present
+
 # We don't any need other packages now than ElementTree
 
 import xml.etree.ElementTree as ET

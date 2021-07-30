@@ -6,7 +6,7 @@ These are course materials for the course Natural Language Processing for Endang
 ## Searching for a methodology for linguistics
 
 * Finite-state morphological descriptions
-* Lexicon (verdd)
+* Lexicon (ve'rdd)
 * Universal Dependencies
 * Research in Apurinã UFPA
 
@@ -14,5 +14,9 @@ These are course materials for the course Natural Language Processing for Endang
 
 These slides are from the variant of the course taught in Belem during the summer 2021.
 
-- [Week 1](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_01_belem.pdf)
-- [Week 2](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_02_belem.pdf)
+- [Lecture 1](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_01_belem.pdf)
+- [Lecture 2](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_02_belem.pdf)
+- [Lecture 3](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_03_belem.pdf)
+- [Lecture 4](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_04_belem.pdf)
+- [Lecture 5](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_05_belem.pdf)
+- [Lecture 6](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_06_belem.pdf)

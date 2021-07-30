@@ -1,14 +1,16 @@
 # nlp-for-endangered-languages
 
-These are course materials for the course Natural Language Processing for Endangered Languages. The goal is to find ways to approach endangered language facilitation, empowerment and research through testing new methods and technology for real solutions.
+These are course materials for the course *Natural Language Processing for Endangered Languages*. The goal is to find ways to approach endangered language facilitation, empowerment and research through testing new methods and technology for real solutions. The course is based into the course *NLP for low-resourced and endangered languages*, taught in the University of Helsinki in spring 2021. This version of the course is less focused to programming and machine learning, and discusses more the general applications and uses of language technology. In the future the course can be adjusted to new situations as well. The course is designed and taught by Khalid Alnajjar, Mika Hämäläinen, Niko Partanen and Jack Rueter. 
 
 # Background
+
 ## Searching for a methodology for linguistics
 
 * Finite-state morphological descriptions
 * Lexicon (ve'rdd)
 * Universal Dependencies
 * Research in Apurinã UFPA
+* Use of language technology in language document corpus management and analysis
 
 # Slides
 

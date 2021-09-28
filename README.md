@@ -22,3 +22,4 @@ These slides are from the variant of the course taught in Belem during the summe
 - [Lecture 4](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_04_belem.pdf)
 - [Lecture 5](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_05_belem.pdf)
 - [Lecture 6](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_06_belem.pdf)
+- [Lecture 7](https://github.com/rueter/nlp-for-endangered-languages/raw/main/slides/lecture_07_belem.pdf)
